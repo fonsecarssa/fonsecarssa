@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Raissa
+# 👋 Olá
 
 ### Estudante de Ciência da Computação | Focada em Suporte Técnico
 ---
