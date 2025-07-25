@@ -1,16 +1,48 @@
-## em desenvolvimento
+# 👋 Olá, eu sou a Raissa
 
-<!--
-**fonsecarssa/fonsecarssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Ciência da Computação | Focada em Suporte Técnico
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://placehold.co/1920x1080" alt="Banner abstrato em tons de azul com elementos de tecnologia e linhas futuristas" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-4B0082?style=for-the-badge&logo=security&logoColor=white" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=blue-green" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=blue-green" alt="Linguagens mais usadas" />
+</div>
+
+
+---
+
+### 📫 Entre em Contato
+
+- [LinkedIn](link)
+- [Email](mailto:seuemail@example.com)
+
+---
+
+### 🌱 Estou Aprendendo
+
+- SQL
+- Suporte Técnico
+- Melhores práticas em Cibersegurança
+
+---
+
+Obrigado por visitar meu perfil! 😊
