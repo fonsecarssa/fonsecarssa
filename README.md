@@ -1,11 +1,6 @@
 # 👋 Olá, eu sou a Raissa
 
 ### Estudante de Ciência da Computação | Focada em Suporte Técnico
-
-<div align="center">
-  <img src="https://placehold.co/1920x1080" alt="Banner abstrato em tons de azul com elementos de tecnologia e linhas futuristas" />
-</div>
-
 ---
 
 ### 🛠 Tecnologias e Ferramentas
@@ -23,8 +18,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=blue-green" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=blue-green" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonsrssa&show_icons=true&theme=blue-green" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonsrssa&layout=compact&theme=blue-green" alt="Linguagens mais usadas" />
 </div>
 
 
@@ -32,8 +27,8 @@
 
 ### 📫 Entre em Contato
 
-- [LinkedIn](link)
-- [Email](mailto:seuemail@example.com)
+- [LinkedIn](linkedin.com/in/raissa-fonseca--/)
+- [Email](mailto:raissafonsecasf@gmail.com)
 
 ---
 
