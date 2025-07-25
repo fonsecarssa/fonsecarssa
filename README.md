@@ -1,4 +1,4 @@
-# 👋 Olá
+# Olá
 
 ### Estudante de Ciência da Computação | Focada em Suporte Técnico
 ---
@@ -40,4 +40,4 @@
 
 ---
 
-Obrigado por visitar meu perfil! 😊
+Obrigada por visitar meu perfil! 
