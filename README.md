@@ -18,8 +18,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonsrssa&show_icons=true&theme=blue-green" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonsrssa&layout=compact&theme=blue-green" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonsecarssa&show_icons=true&theme=blue-green" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonsecarssa&layout=compact&theme=blue-green" alt="Linguagens mais usadas" />
 </div>
 
 
