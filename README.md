@@ -1,6 +1,6 @@
 # Olá
 
-### Estudante de Ciência da Computação | Focada em Suporte Técnico
+### Estudante de Análise e Desenvolvimento de Sistemas | Focada em Suporte Técnico
 ---
 
 ### 🛠 Tecnologias e Ferramentas
