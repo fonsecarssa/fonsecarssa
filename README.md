@@ -27,8 +27,8 @@
 
 ### 📫 Entre em Contato
 
-- [LinkedIn](linkedin.com/in/raissa-fonseca--/)
-- [Email](mailto:raissafonsecasf@gmail.com)
+[LinkedIn](linkedin.com/in/raissa-fonseca--/)
+[Email](mailto:raissafonsecasf@gmail.com)
 
 ---
 
