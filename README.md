@@ -1,43 +1,76 @@
-# Olá
+# 👩🏻‍💻 Raissa Fonseca
 
-### Estudante de Análise e Desenvolvimento de Sistemas | Focada em Suporte Técnico
----
+**`Estudante de TI`**
 
-### 🛠 Tecnologias e Ferramentas
+Me chamo Raissa Fonseca, tenho 19 anos e sou natural de Curitiba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCPR. Sou apaixonada por tecnologia e sempre busco melhorias e conhecimentos na área.".
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-4B0082?style=for-the-badge&logo=security&logoColor=white" />
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonsecarssa&show_icons=true&theme=blue-green" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonsecarssa&layout=compact&theme=blue-green" alt="Linguagens mais usadas" />
-</div>
-
+<p align="left">
+    <a href="https://github.com/fonsecarssa?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/fonsecarssa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/fonsecarssa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-### 📫 Entre em Contato
+### 🤖 Linguagens e Tecnologias
 
-[LinkedIn](linkedin.com/in/raissa-fonseca--/)
-[Email](mailto:raissafonsecasf@gmail.com)
 
----
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-### 🌱 Estou Aprendendo
+<img 
+    align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+ />
 
-- SQL
-- Suporte Técnico
-- Melhores práticas em Cibersegurança
+<br/>
+<br/>
 
----
+### 📊 Estatísticas
 
-Obrigada por visitar meu perfil! 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=fonsecarssa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonsecarssa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
